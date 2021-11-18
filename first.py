@@ -1,5 +1,5 @@
 def first():
-    print('My first git-repo')
+    print('My first git-repop')
 
 
 if __name__ == '__main__':
